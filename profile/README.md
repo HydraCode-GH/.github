@@ -1,64 +1,31 @@
 # HydraCode
 
-Willkommen auf dem offiziellen Github von HydraCode!
+```text
+ /$$   /$$                 /$$                     /$$$$$$                  /$$          
+| $$  | $$                | $$                    /$$__  $$                | $$          
+| $$  | $$ /$$   /$$  /$$$$$$$  /$$$$$$  /$$$$$$ | $$  \__/  /$$$$$$   /$$$$$$$  /$$$$$$ 
+| $$$$$$$$| $$  | $$ /$$__  $$ /$$__  $$|____  $$| $$       /$$__  $$ /$$__  $$ /$$__  $$
+| $$__  $$| $$  | $$| $$  | $$| $$  \__/ /$$$$$$$| $$      | $$  \ $$| $$  | $$| $$$$$$$$
+| $$  | $$| $$  | $$| $$  | $$| $$      /$$__  $$| $$    $$| $$  | $$| $$  | $$| $$_____/
+| $$  | $$|  $$$$$$$|  $$$$$$$| $$     |  $$$$$$$|  $$$$$$/|  $$$$$$/|  $$$$$$$|  $$$$$$$
+|__/  |__/ \____  $$ \_______/|__/      \_______/ \______/  \______/  \_______/ \_______/
+           /$$  | $$                                                                     
+          |  $$$$$$/                                                                     
+           \______/                                                                      
+```
 
-## Über Uns
+Welcome to HydraCode
 
-HydraCode ist ein spezialisiertes Entwicklungsunternehmen mit Fokus auf **FiveM-Serverentwicklung** und **LUA-Skripting**. Wie die mythologische Hydra haben wir multiple "Köpfe" - Experten, die gemeinsam an innovativen FiveM-Ressourcen und Custom-Scripts arbeiten.
+We build custom FiveM scripts, resources, and full server solutions using Lua.  
+Like the Hydra, we have multiple heads — developers working together to solve problems (and sometimes create new ones).
 
-## 🚀 Unsere Spezialgebiete
+## What we do
+- Custom FiveM scripts & resources  
+- ESX / QBCore / Qbox development  
+- UI & NUI interfaces  
+- Performance optimization & bug fixing  
+- Full server setups & support
 
-### FiveM Entwicklung
-- **Custom Resources** - Maßgeschneiderte Server-Ressourcen
-- **LUA Skripting** - Professionelle FiveM-Scripts
-- **ESX/QBCore/Qbox** - Erweiterungen und Optimierungen
-- **UI-Entwicklung** - NUI Interfaces und Menüs
-- **Gameplay Features** - Einzigartige Server-Features
-
-### LUA Expertise
-- **FiveM Framework** - ESX, QBCore, Qbox
-- **Custom Events** - Server-Client Kommunikation
-- **Performance Optimization** - Optimierte Skripte
-
-## 🎮 Unsere FiveM Services
-
-### Script Entwicklung
-- 🔧 **Custom Scripts** nach Kundenwunsch
-- ⚡ **Performance Optimization** bestehender Resourcen
-- 🐛 **Bug Fixing** und Support
-
-### Vollständige Server
-- 🏗 **Komplette Server-Setups betreuen**
-- 🔗 **Datenbanken absichern**
-- 📱 **Discord Bots**
-- 🛡 **Security & Anti-Cheat**
-
-## 📞 Kontakt & Support
-
-- **GitHub**: https://github.com/HydraCode-GH
-- **Discord**: [Coming Soon]
-- **E-Mail**: [Support@hydracode.dev](mailto:Support@hydracode.dev)
-
-## 💼 Auftragsarbeit
-
-Wir entwickeln **maßgeschneiderte FiveM-Lösungen**:
-- Custom Resources
-- UI-Design und NUI-Entwicklung
-- Server-Optimierung
-- Bug-Fixes und Support
-
-**Kontaktieren Sie uns für ein Angebot!**
-
-## 📄 Lizenz
-
-Unsere Projekte sind unter der CC BY-NC-SA 4.0-Lizenz veröffentlicht - siehe die [LICENSE](LICENSE) Datei für Details.
-
----
-
-<div align="center">
-
-**⭐ Wenn Ihnen unsere Arbeit gefällt, vergessen Sie nicht das Repository zu starren!**
-
-*"Spezialisten für FiveM & LUA Entwicklung - Deine Vorstellungen, unser Code!"* 🎮
-
-</div>
+## Contact
+- GitHub: https://github.com/HydraCode-GH  
+- Email: support@hydracode.dev  
